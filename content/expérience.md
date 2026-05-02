@@ -65,8 +65,8 @@ Une fois la POC validée, j'ai procédé à l'intégration technique :
 ---
 
 ### 📄 Documents liés au stage
-* [Convention de Stage (PDF)](/downloads/convention.pdf)
-* [Attestation de fin de stage (PDF)](/downloads/attestation.pdf)
+* [Convention de Stage (PDF)](/portfolio/downloads/convention.pdf)
+* [Attestation de fin de stage (PDF)](/portfolio/downloads/attestation.pdf)
 
 ## 📌 Stage de 2ème année de BTS
 Mon stage de deuxième année a consisté à garantir la fiabilité et la robustesse de certaines applications de l'entreprise via l'automatisation des tests **End-to-End (E2E)** et l'amélioration de l'accessibilité.
@@ -101,5 +101,5 @@ Au-delà du code, j'ai participé activement au cycle de vie logiciel :
 ---
 
 ### 📄 Documents liés au stage
-* [Convention de Stage (PDF)](/downloads/convention2.pdf)
-* [Attestation de fin de stage (PDF)](/downloads/attestation2.pdf)
+* [Convention de Stage (PDF)](/portfolio/downloads/convention2.pdf)
+* [Attestation de fin de stage (PDF)](/portfolio/downloads/attestation2.pdf)

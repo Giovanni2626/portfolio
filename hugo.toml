@@ -1,3 +1,15 @@
-baseURL = "https://Giovanni2626.github.io/mon-portfolio/"
+baseURL = "https://Giovanni2626.github.io/portfolio/"
 locale = 'en-us'
-title = 'My New Hugo Project'
+title = 'Giovanni Berard'
+theme = "blowfish"
+
+
+
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = "0.110.0"
+
+[params]
+  colorScheme = "blowfish"
+  

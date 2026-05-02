@@ -2,49 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Giovanni Berard</title>
-    <link>http://localhost:1313/mon-portfolio/</link>
+    <link>http://localhost:1313/portfolio/</link>
     <description>Recent content on Giovanni Berard</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-    <atom:link href="http://localhost:1313/mon-portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/portfolio/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Expérience professionnelle</title>
-      <link>http://localhost:1313/mon-portfolio/exp%C3%A9rience/</link>
+      <link>http://localhost:1313/portfolio/exp%C3%A9rience/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/mon-portfolio/exp%C3%A9rience/</guid>
+      <guid>http://localhost:1313/portfolio/exp%C3%A9rience/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Formation</title>
-      <link>http://localhost:1313/mon-portfolio/formation/</link>
+      <link>http://localhost:1313/portfolio/formation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/mon-portfolio/formation/</guid>
+      <guid>http://localhost:1313/portfolio/formation/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Projets</title>
-      <link>http://localhost:1313/mon-portfolio/projets/</link>
+      <link>http://localhost:1313/portfolio/projets/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/mon-portfolio/projets/</guid>
+      <guid>http://localhost:1313/portfolio/projets/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Veille Technologique</title>
-      <link>http://localhost:1313/mon-portfolio/veille/</link>
+      <link>http://localhost:1313/portfolio/veille/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/mon-portfolio/veille/</guid>
+      <guid>http://localhost:1313/portfolio/veille/</guid>
       <description></description>
       
     </item>
