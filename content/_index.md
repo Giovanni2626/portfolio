@@ -16,6 +16,6 @@ hr {
 </style>
 
 
-Bienvenue sur mon portfolio !
+Bienvenue sur mon portfolio,
 
-Depuis que j'ai commencé ma formation, je me suis découvert une  passion pour la création d'applications et de sites web. Sur ce portfolio je partage mon parcours d'apprentissage lié à ma formation : mes projets, mon expérience professionelle et ma veille technologique. Bonne visite !
+Depuis que j'ai commencé ma formation, je me suis découvert une  passion pour la création d'applications et de sites web. Sur ce portfolio je partage mon parcours d'apprentissage lié à ma formation : mes projets, mon expérience professionelle et ma veille technologique. Bonne visite.
