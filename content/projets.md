@@ -141,3 +141,42 @@ L'application repose sur une architecture **n-tiers**, communiquant avec une bas
 ![image](/commandeslivres.png)
 ![image](/commandesdvd.png)
 ![image](/revues.png)
+
+
+
+# 🕹️ Pac-Man en Python 
+
+Ce projet personnel est un clone du célèbre jeu **Pac-Man**, développé en Python avec la bibliothèque **Pygame**. Le projet est disponible [**ici**](https://github.com/Giovanni2626/pac-man).
+
+## 🚀 Fonctionnalités Clés
+
+*   **Système de Bonus Officiel** : Apparition dynamique des 8 fruits originaux selon le niveau actuel.
+    *   *Niv 1* : Cerise | *Niv 2* : Fraise | *Niv 3-4* : Orange | *Niv 5-6* : Pomme
+    *   *Niv 7-8* : Melon | *Niv 9-10* : Galboss | *Niv 11-12* : Cloche | *Niv 13+* : Clé
+*   **Gestion d'États de Jeu** : Transition fluide entre les modes `READY` (préparation), `PLAY` (en jeu), `PAUSE` et `GAMEOVER`.
+*   **Mécaniques Avancées** :
+    *   **Intelligence Artificielle** : Les Fantômes poursuivent Pac-Man.
+    *   **Système de Power-Up** : Consommation de super-pastilles rendant les fantômes vulnérables.
+    *   **Tunnel Loop** : Téléportation fonctionnelle de Pac-Man sur les bords latéraux.
+*   **Graphismes Procéduraux** : Tous les sprites (Pac-Man, Fantômes, Fruits) sont dessinés via du code (`pygame.draw`), garantissant un projet léger et performant sans dépendances d'images externes.
+
+## 🛠️ Défis Techniques Résolus
+
+### Collisions
+Le plus gros défi a été d'assurer que Pac-Man ne soit pas bloqué par les murs.
+
+### Gestion de la Pause et UX
+Intégration d'un système de pause réactif via les touches `ESPACE` ou `P`, permettant de figer l'ensemble de la boucle de jeu (mouvements, timers, animations) sans perdre l'état de la session.
+
+### Déploiement en Exécutable
+Le projet est conçu pour être compilé en fichier `.exe` via PyInstaller, rendant l'application installable et jouable sur n'importe quel ordinateur Windows sans installation de Python préalable.
+
+## 📸 Aperçu de l'Application
+
+
+![image](/pac-man1.png)
+![image](/pac-man2.png)
+![image](/pac-man3.png)
+![image](/pac-man4.png)
+![image](/pac-man5.png)
+
