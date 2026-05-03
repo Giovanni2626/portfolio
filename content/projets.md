@@ -166,7 +166,7 @@ Ce projet personnel est un clone du célèbre jeu **Pac-Man**, développé en Py
 Le plus gros défi a été d'assurer que Pac-Man ne soit pas bloqué par les murs.
 
 ### Gestion de la Pause et UX
-Intégration d'un système de pause réactif via les touches `ESPACE` ou `P`, permettant de figer l'ensemble de la boucle de jeu (mouvements, timers, animations) sans perdre l'état de la session.
+Intégration d'un système de pause réactif via la touche `ESPACE`, permettant de figer l'ensemble de la boucle de jeu (mouvements, timers, animations) sans perdre l'état de la session.
 
 ### Déploiement en Exécutable
 Le projet est conçu pour être compilé en fichier `.exe` via PyInstaller, rendant l'application installable et jouable sur n'importe quel ordinateur Windows sans installation de Python préalable.
